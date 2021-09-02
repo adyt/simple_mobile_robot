@@ -5,7 +5,7 @@
 #include <BlynkSimpleEsp32.h>
 
 /*Sesuaikan dengan Auth Token saat Blynk Project dibuat (konfirmasi via e-Mail)*/
-char auth[] = "srBCslGsP-BUSelXOBozFbKxuxC2XwXa";
+char auth[] = "";
 
 /*Sesuaikan SSID Name dan Password Portable Hotspot yang digunakan*/
 char ssid[] = "Hallo";
